@@ -3,8 +3,8 @@
 ## Informações gerais
 - **Professor** [Ricardo Fabbri, Ph.D](http://rfabbri.github.io)
 - **Datas** das avaliações teóricas
-    - P1:
-    - P2: 
+    - P1: 16/12/2026
+    - P2: 7/4/2027
 - **Repositorio** principal da disciplina: 
     git clone http://github.com/rfabbri/cg-fabbri-IPRJ-UERJ
 
