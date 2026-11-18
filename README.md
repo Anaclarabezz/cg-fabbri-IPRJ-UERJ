@@ -11,7 +11,9 @@
 ## Criterio de Avaliacao
 
 M = 0.4*P + 0.6*T
+
 P = (P1 + P2)/2
+
 T = nota de trabalhos e tarefas
 
 ## Aulas Teoricas
