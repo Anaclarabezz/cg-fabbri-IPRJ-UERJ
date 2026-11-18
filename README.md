@@ -1,4 +1,4 @@
-# Algoritmos e Estrutura de Dados 2025
+# Computacao Graica 2026/2 (fim de 2026 e inicio 2027 devido a greve)
 
 ## Informações gerais
 - **Professor** [Ricardo Fabbri, Ph.D](http://rfabbri.github.io)
