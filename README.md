@@ -38,6 +38,29 @@ C/C++ Fabbri Parte 2 https://youtu.be/k0KfKildD-U
 ### IA/LLMs
 - Uso de IA será explorado em alguns projetos
 
+### Vulkan
+
+#### Instalando (2026)
+- Linux e Mac: 
+    - LunarG SDK
+    - Tentar sem root
+
+#### Onde aprender
+1) Vulkan tutorial (em paralelo 2, vulkan guide)
+2) Vulkan guide
+3) Mais pratico para game engine: 
+    - http://vkguide.dev
+    - Sascha Willems’ How to Vulkan in 2026
+4) Other resources
+    - https://vulkan.org/learn
+    - Blender vulkan backend 
+        - https://developer.blender.org/docs/features/gpu/vulkan/
+        - source/blender/gpu/vulkan
+
+    - Hardware mental model: A Trip Through the Graphics Pipeline (Parts 1–6)
+    - Fabian Giesen’s A Trip Through the Graphics Pipeline and 
+
+
 ## Trabalhos
 
 
@@ -62,19 +85,32 @@ inteirar com os colegas que compareceram. Chegar a uma aula sem ter se inteirado
 da aula anterior quase sempre irá incorrer na falta de compreensão e perda de
 nota em atividades.
 
-### Tarefa 0: questionario e contas, até 17h de 14ago25
+### Tarefa 0: contas, até 17h de 24nov26
 
 Solicito outras tarefas:
 
 0.1) criar uma conta github até a mesma data, caso ainda não tenha, 
 
-0.2) assinatura do plano de IA para estudante, casoo disponivel
+0.2) fazer fork do repositorio da disciplina (link no inicio deste arquivo)
 
-0.3) baixar blendeer
+0.3) adicionar arquivo hello.cpp manualmente
+
+0.4) submeter a mudanca para seu github pessoal
+
+0.5) realizar um pull request para o hello.cpp apenas a titulo de exeercicio
 
 
-Recomendo já instalar o agy (Google Antigravity) na sua máquina pessoal, que foi o assistente
-de programação eleito/justificado em aula.
+
+### Tarefa 1: vulkan, até 17h de 26nov26
+
+1.0) git pull no repo da disciplina
+1.1) Conta de estudante do google gemini ou IA de sua preferencia.
+1.2) Testar/Instalar o agy (Google Antigravity) na sua máquina pessoal, que foi o
+assistente de programação eleito/justificado em aula.
+1.3) Instalar Vulkan SDK
+1.4) Testar Vulkan SDK rodando vkcube
+1.5) Compilar hello.cpp
+
 
 ### Tarefa  1 para x
 
@@ -86,5 +122,5 @@ de programação eleito/justificado em aula.
     - quqlquer outro problema
 
 ## See also
-- [Curso anterior](http://wiki.nosdigitais.teia.org.br/CGG) (em fase de upgrade)
-- Qualquer duvida, o prof. Fabbri se coloca à disposicao para google meet https://meet.google.com/ytc-cqrv-qjm
+- [Curso anterior](http://wiki.nosdigitais.teia.org.br/CG) (em fase de upgrade)
+- Qualquer duvida, o prof. Fabbri se coloca à disposicao para google meet.
