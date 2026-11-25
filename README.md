@@ -51,7 +51,13 @@ C/C++ Fabbri Parte 2 https://youtu.be/k0KfKildD-U
 3) Mais pratico para game engine: 
     - http://vkguide.dev
     - Sascha Willems’ How to Vulkan in 2026
-4) Other resources
+
+4) Instalar RenderDoc https://renderdoc.org
+    - Instalar usando tarball
+    - Debug visual
+
+
+#### Other resources
     - https://vulkan.org/learn
     - Blender vulkan backend 
         - https://developer.blender.org/docs/features/gpu/vulkan/
